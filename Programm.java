@@ -16,7 +16,7 @@ public class Programm {
         frame.setSize(494,494);
         frame.setLayout(new GridBagLayout());
 
-		JLabel element_1699466218029 = new JLabel("label");
+		JLabel element_1699466218029 = new JLabel("NO ES VENTANA PRINCIPAL");
         GridBagConstraints constraints_element_1699466218029 = new GridBagConstraints();
         constraints_element_1699466218029.gridx = 4;
         constraints_element_1699466218029.gridy = 4;
