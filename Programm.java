@@ -25,7 +25,7 @@ public class Programm {
         constraints_element_1699466218029.fill = GridBagConstraints.HORIZONTAL;
         frame.add(element_1699466218029, constraints_element_1699466218029);
 
-		JButton element_1699466207718 = new JButton("button");
+		JButton element_1699466207718 = new JButton("Aceptar");
         GridBagConstraints constraints_element_1699466207718 = new GridBagConstraints();
         constraints_element_1699466207718.gridx = 4;
         constraints_element_1699466207718.gridy = 5;
